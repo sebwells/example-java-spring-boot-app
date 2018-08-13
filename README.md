@@ -13,3 +13,5 @@ curl localhost:8080
 ```
 
 It should return the text `Hello world`
+
+> Note. requires Java 1.8
